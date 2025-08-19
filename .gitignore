@@ -1,0 +1,11 @@
+.vscode
+*.pyc
+__pycache__/
+.venv/
+*.env
+*.mp4
+*.jpg
+output
+runs
+nb.ipynb
+*.ipynb_checkpoints
